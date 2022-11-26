@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=500&color=6BD100FF&width=435&lines=Hallo%2C+there!+%F0%9F%91%8B;This+is+Gromi+Chen...;Nice+to+meet+you.)](https://git.io/typing-svg)
-
-*****
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=500&color=6BD100&vCenter=true&width=435&lines=Hallo%2C+there!+%F0%9F%91%8B;This+is+Gromi+Chen...;Nice+to+meet+you.)](https://git.io/typing-svg)
+****
 
 - 🔭 I’m currently working on AIoT application development.
 - 🎓 I graduated from [Center for Space and Remote Sensing Research](https://www1.csrsr.ncu.edu.tw/homepage.php), National Central University.
@@ -8,14 +7,7 @@
 
 ****
 ## Languages & Frameworks & Tools & Abilities
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,pytorch&perline=8)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,nodejs,php,postgres,mysql&perline=8)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=cs,unity&perline=8)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,discord,figma,visualstudio,vscode&perline=8)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,js,html,css,jquery,nodejs,php,postgres,mysql,cs,unity,visualstudio,vscode,git,github,discord,figma&perline=4)](https://skillicons.dev)
 ***
 ## Stats
 
